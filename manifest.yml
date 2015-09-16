@@ -8,7 +8,7 @@ declared-services:
     plan: standard
   concept-insights-service:
     label: concept_insights
-    plan: free
+    plan: standard
 applications:
 - services:
   - concept-insights-service
